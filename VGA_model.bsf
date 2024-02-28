@@ -1,0 +1,134 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 16 16 288 208)
+	(text "VGA_model" (rect 5 0 75 19)(font "Intel Clear" (font_size 8)))
+	(text "inst" (rect 8 171 24 188)(font "Intel Clear" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "Clk" (rect 0 0 18 19)(font "Intel Clear" (font_size 8)))
+		(text "Clk" (rect 21 27 39 46)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "Reset_L" (rect 0 0 47 19)(font "Intel Clear" (font_size 8)))
+		(text "Reset_L" (rect 21 43 68 62)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 48)(pt 16 48))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "CPU_Data[7..0]" (rect 0 0 92 19)(font "Intel Clear" (font_size 8)))
+		(text "CPU_Data[7..0]" (rect 21 59 113 78)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 64)(pt 16 64)(line_width 3))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "CPU_Address[11..0]" (rect 0 0 120 19)(font "Intel Clear" (font_size 8)))
+		(text "CPU_Address[11..0]" (rect 21 75 141 94)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 80)(pt 16 80)(line_width 3))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "CHIP_SELECT_L" (rect 0 0 96 19)(font "Intel Clear" (font_size 8)))
+		(text "CHIP_SELECT_L" (rect 21 91 117 110)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 96)(pt 16 96))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "WE_L" (rect 0 0 33 19)(font "Intel Clear" (font_size 8)))
+		(text "WE_L" (rect 21 107 54 126)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 112)(pt 16 112))
+	)
+	(port
+		(pt 0 128)
+		(input)
+		(text "AS_L" (rect 0 0 30 19)(font "Intel Clear" (font_size 8)))
+		(text "AS_L" (rect 21 123 51 142)(font "Intel Clear" (font_size 8)))
+		(line (pt 0 128)(pt 16 128))
+	)
+	(port
+		(pt 272 32)
+		(output)
+		(text "VGA_CLK" (rect 0 0 56 19)(font "Intel Clear" (font_size 8)))
+		(text "VGA_CLK" (rect 195 27 251 46)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 32)(pt 256 32))
+	)
+	(port
+		(pt 272 48)
+		(output)
+		(text "VGA_HSYNC" (rect 0 0 76 19)(font "Intel Clear" (font_size 8)))
+		(text "VGA_HSYNC" (rect 175 43 251 62)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 48)(pt 256 48))
+	)
+	(port
+		(pt 272 64)
+		(output)
+		(text "VGA_VSYNC" (rect 0 0 75 19)(font "Intel Clear" (font_size 8)))
+		(text "VGA_VSYNC" (rect 176 59 251 78)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 64)(pt 256 64))
+	)
+	(port
+		(pt 272 80)
+		(output)
+		(text "R[7..0]" (rect 0 0 38 19)(font "Intel Clear" (font_size 8)))
+		(text "R[7..0]" (rect 213 75 251 94)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 80)(pt 256 80)(line_width 3))
+	)
+	(port
+		(pt 272 96)
+		(output)
+		(text "G[7..0]" (rect 0 0 40 19)(font "Intel Clear" (font_size 8)))
+		(text "G[7..0]" (rect 211 91 251 110)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 96)(pt 256 96)(line_width 3))
+	)
+	(port
+		(pt 272 112)
+		(output)
+		(text "B[7..0]" (rect 0 0 38 19)(font "Intel Clear" (font_size 8)))
+		(text "B[7..0]" (rect 213 107 251 126)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 112)(pt 256 112)(line_width 3))
+	)
+	(port
+		(pt 272 128)
+		(output)
+		(text "VGA_BLANKING" (rect 0 0 96 19)(font "Intel Clear" (font_size 8)))
+		(text "VGA_BLANKING" (rect 155 123 251 142)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 128)(pt 256 128))
+	)
+	(port
+		(pt 272 144)
+		(output)
+		(text "DATAOUT[7..0]" (rect 0 0 92 19)(font "Intel Clear" (font_size 8)))
+		(text "DATAOUT[7..0]" (rect 159 139 251 158)(font "Intel Clear" (font_size 8)))
+		(line (pt 272 144)(pt 256 144)(line_width 3))
+	)
+	(drawing
+		(rectangle (rect 16 16 256 176))
+	)
+)

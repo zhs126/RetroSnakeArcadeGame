@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DebugMonitorCode",
+    "\\SRecord_to_MIF_Converter",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\Debug",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\ipch",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\Release",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter",
+    "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\_UpgradeReport_Files"
+  ],
+  "SelectedNode": "\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\SRecord_to_MIF_Converter\\StoMifConverterV6.cpp",
+  "PreviewInSolutionExplorer": false
+}

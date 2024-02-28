@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vSramBlockDecoder_testbench
+!s110 1673875121
+!i10b 1
+!s100 _<[@X;^mC;0mBbBfWi=oH3
+InBMaIZbFY9I@TnY4Jn>ZM1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/arian/Desktop/ELEC 4th year/M68kV6.0_800by480(1)
+w1673875104
+8C:\M68kV6.0_800by480\SramBlockDecoder_Verilog - Copy.v
+FC:\M68kV6.0_800by480\SramBlockDecoder_Verilog - Copy.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1673875120.000000
+!s107 C:\M68kV6.0_800by480\SramBlockDecoder_Verilog - Copy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\M68kV6.0_800by480\SramBlockDecoder_Verilog - Copy.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@sram@block@decoder_testbench
+vSramBlockDecoder_Verilog
+Z6 !s110 1673875120
+!i10b 1
+!s100 =c<_WWcBCjTUblX^IOg2n2
+I:0W@I6K8mI09i>AeW=RGD0
+R0
+R1
+Z7 w1673875089
+Z8 8C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v
+Z9 FC:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+Z10 !s107 C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v|
+!i113 1
+R4
+R5
+n@sram@block@decoder_@verilog
+vSramBlockDecoder_Verilog2
+R6
+!i10b 1
+!s100 J6B<l4G4LPkloFL@PIRj[2
+I2GhjLUMmd8?m;:H[@odf33
+R0
+R1
+R7
+R8
+R9
+L0 33
+R2
+r1
+!s85 0
+31
+R3
+R10
+R11
+!i113 1
+R4
+R5
+n@sram@block@decoder_@verilog2

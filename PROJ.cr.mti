@@ -1,0 +1,19 @@
+{C:/M68kV6.0_800by480/SramBlockDecoder_Verilog - Copy.v} {1 {vlog -work work -stats=none {C:\M68kV6.0_800by480\SramBlockDecoder_Verilog - Copy.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SramBlockDecoder_testbench
+
+Top level modules:
+	SramBlockDecoder_testbench
+
+} {} {}} {C:/Users/arian/Desktop/ELEC 4th year/M68kV6.0_800by480(1)/SramBlockDecoder_Verilog.v} {2 {vlog -work work -stats=none {C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SramBlockDecoder_Verilog
+** Warning: C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v(2): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+-- Compiling module SramBlockDecoder_Verilog2
+** Warning: C:\Users\arian\Desktop\ELEC 4th year\M68kV6.0_800by480(1)\SramBlockDecoder_Verilog.v(34): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+Top level modules:
+	SramBlockDecoder_Verilog
+	SramBlockDecoder_Verilog2
+
+} {} {}}
